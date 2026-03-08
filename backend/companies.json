@@ -1,0 +1,1298 @@
+[
+  {
+    "model": "companies.company",
+    "pk": 1,
+    "fields": {
+      "company_name": "대한불교조계종사회복지재단 경기남양주시아동보호전문기관",
+      "company_addr": "경기 남양주시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 2,
+    "fields": {
+      "company_name": "㈜ 셀트리온제약",
+      "company_addr": "충북 청주시 청원구경기 과천시광주 북구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 3,
+    "fields": {
+      "company_name": "주식회사 암펠",
+      "company_addr": "서울 영등포구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 4,
+    "fields": {
+      "company_name": "고려대부속안산병원",
+      "company_addr": "경기 안산시 단원구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 5,
+    "fields": {
+      "company_name": "우람테크",
+      "company_addr": "경기 안성시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 6,
+    "fields": {
+      "company_name": "(주)호텔롯데 롯데호텔제주",
+      "company_addr": "제주 서귀포시서울"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 7,
+    "fields": {
+      "company_name": "(주)엘지유플러스",
+      "company_addr": "서울 강서구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 8,
+    "fields": {
+      "company_name": "풀무원식품 주식회사",
+      "company_addr": "서울 강남구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 9,
+    "fields": {
+      "company_name": "하나증권",
+      "company_addr": "서울 영등포구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 10,
+    "fields": {
+      "company_name": "(주)피앤피시큐어",
+      "company_addr": "서울 강서구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 11,
+    "fields": {
+      "company_name": "두산모트롤 주식회사",
+      "company_addr": "경남 창원시 성산구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 12,
+    "fields": {
+      "company_name": "가톨릭대학교 인천성모병원",
+      "company_addr": "인천 부평구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 13,
+    "fields": {
+      "company_name": "(주)투데이에너지",
+      "company_addr": "서울 강남구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 14,
+    "fields": {
+      "company_name": "(주) 카카오브이엑스 (KAKAO VX)",
+      "company_addr": "경기 성남시 분당구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 15,
+    "fields": {
+      "company_name": "동부건설 (주)",
+      "company_addr": "전국"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 16,
+    "fields": {
+      "company_name": "(주)양지사",
+      "company_addr": "경기 김포시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 17,
+    "fields": {
+      "company_name": "에이치디현대중공업 주식회사",
+      "company_addr": "울산 동구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 18,
+    "fields": {
+      "company_name": "(주)셀트리온",
+      "company_addr": "인천 연수구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 19,
+    "fields": {
+      "company_name": "GC녹십자",
+      "company_addr": "충북 음성군"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 20,
+    "fields": {
+      "company_name": "광명시 제2청년동 청춘곳간",
+      "company_addr": "경기 광명시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 21,
+    "fields": {
+      "company_name": "(주)바다해찬",
+      "company_addr": "경남 통영시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 22,
+    "fields": {
+      "company_name": "효동어린이집",
+      "company_addr": "경북 김천시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 23,
+    "fields": {
+      "company_name": "(#)다산케어센터 인천남동지사",
+      "company_addr": "인천 남동구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 24,
+    "fields": {
+      "company_name": "(주)우원방제",
+      "company_addr": "서울 성동구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 25,
+    "fields": {
+      "company_name": "(주)북정주유소",
+      "company_addr": "경남 양산시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 26,
+    "fields": {
+      "company_name": "비티엠써비스 주식회사",
+      "company_addr": "경기 용인시 수지구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 27,
+    "fields": {
+      "company_name": "(주)우리셔츠",
+      "company_addr": "충남 천안시 서북구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 28,
+    "fields": {
+      "company_name": "(주)구주철강",
+      "company_addr": "경기 안성시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 29,
+    "fields": {
+      "company_name": "(주)진성오피스",
+      "company_addr": "대구 서구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 30,
+    "fields": {
+      "company_name": "(주)지우환경",
+      "company_addr": "충북 음성군"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 31,
+    "fields": {
+      "company_name": "(주)대경디앤지",
+      "company_addr": "경남 창원시 의창구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 32,
+    "fields": {
+      "company_name": "세운감정평가사사무소",
+      "company_addr": "대구 수성구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 33,
+    "fields": {
+      "company_name": "해빔현대백화점중동점",
+      "company_addr": "경기 부천시 원미구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 34,
+    "fields": {
+      "company_name": "(주)태성주택관리",
+      "company_addr": "강원 원주시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 35,
+    "fields": {
+      "company_name": "(주)엘에스네트웍스",
+      "company_addr": "서울 용산구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 36,
+    "fields": {
+      "company_name": "인크루트",
+      "company_addr": "서울 중구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 37,
+    "fields": {
+      "company_name": "(주)엠에이치코리아",
+      "company_addr": "충북 청주시 상당구충북 청주시 흥덕구충북 청주시 서원구충북 청주시 청원구충북"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 38,
+    "fields": {
+      "company_name": "삼성생명보험(주)",
+      "company_addr": "부산대구서울전국대전"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 39,
+    "fields": {
+      "company_name": "금호타이어",
+      "company_addr": "서울 종로구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 40,
+    "fields": {
+      "company_name": "안진회계법인",
+      "company_addr": "서울 영등포구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 41,
+    "fields": {
+      "company_name": "고려대학교의료원",
+      "company_addr": "서울 성북구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 42,
+    "fields": {
+      "company_name": "주식회사지오에듀케이션",
+      "company_addr": "서울서울 마포구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 43,
+    "fields": {
+      "company_name": "코오롱인더스트리(주)",
+      "company_addr": "울산"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 44,
+    "fields": {
+      "company_name": "(주)이지웍스뉴미디어",
+      "company_addr": "경기 고양시 일산동구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 45,
+    "fields": {
+      "company_name": "(주)세스코",
+      "company_addr": "서울 강동구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 46,
+    "fields": {
+      "company_name": "주식회사 오케이저축은행",
+      "company_addr": "서울 중구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 47,
+    "fields": {
+      "company_name": "(주)서영엔지니어링",
+      "company_addr": "경기 용인시 기흥구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 48,
+    "fields": {
+      "company_name": "메리츠화재해상보험(주)",
+      "company_addr": "대구대구 북구대구 수성구대구 동구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 49,
+    "fields": {
+      "company_name": "세종사이버대학교",
+      "company_addr": "서울 광진구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 50,
+    "fields": {
+      "company_name": "한양대학교병원",
+      "company_addr": "서울 성동구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 51,
+    "fields": {
+      "company_name": "국제백신연구소",
+      "company_addr": "서울 관악구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 52,
+    "fields": {
+      "company_name": "주식회사 에스앤비",
+      "company_addr": "경기 안성시경기 평택시경기 오산시경기 화성시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 53,
+    "fields": {
+      "company_name": "주식회사 원탑",
+      "company_addr": "전남 담양군"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 54,
+    "fields": {
+      "company_name": "한국오츠카제약(주)",
+      "company_addr": "서울 강남구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 55,
+    "fields": {
+      "company_name": "(주)효성",
+      "company_addr": "경기 안양시 동안구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 56,
+    "fields": {
+      "company_name": "한림대학교의료원(학교법인 일송학원)",
+      "company_addr": "경기 화성시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 57,
+    "fields": {
+      "company_name": "(주)래전드산업",
+      "company_addr": "베트남 호치민베트남"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 58,
+    "fields": {
+      "company_name": "(주)세정",
+      "company_addr": "서울 강남구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 59,
+    "fields": {
+      "company_name": "이즈 스포츠클럽",
+      "company_addr": "경남 창원시 마산회원구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 60,
+    "fields": {
+      "company_name": "(재)화성시여성가족청소년재단",
+      "company_addr": ""
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 61,
+    "fields": {
+      "company_name": "브릿지유한회사",
+      "company_addr": "제주 서귀포시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 62,
+    "fields": {
+      "company_name": "보다(BODA)",
+      "company_addr": "경기 남양주시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 63,
+    "fields": {
+      "company_name": "주식회사 혜안아이앤디",
+      "company_addr": "서울 강남구서울서울 서초구서울 강동구서울 관악구서울 광진구서울 구로구서울 금천구서울 강북구서울 강서구서울 노원구서울 양천구서울 중구서울 서대문구서울 마포구서울 송파구서울 종로구서울 은평구서울 동작구서울 동대문구서울 성동구서울 용산구서울 도봉구서울 영등포구서울 중랑구서울 성북구경기 성남시 수정구경기 성남시 중원구경기 성남시 분당구경기 부천시 원미구경기 수원시 영통구경기 수원시 장안구경기 시흥시경기 수원시 팔달구경기 안산시 단원구경기 수원시 권선구경기 부천시 오정구경기 부천시 소사구경기 동두천시경기 남양주시경기 광주시경기 광명시경기 가평군경기 과천시경기 김포시경기 고양시 덕양구경기 고양시 일산동구경기 구리시경기 고양시 일산서구경기 군포시경기 양주시경기 용인시 기흥구경기 의정부시경기 오산시경기 안양시 만안구경기 안양시 동안구경기 의왕시경기 용인시 수지구경기 여주시경기 안성시경기 안산시 상록구경기 양평군경기 용인시 처인구경기 평택시경기 포천시경기 하남시경기 화성시경기"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 64,
+    "fields": {
+      "company_name": "(주)서우이엔지",
+      "company_addr": "경기 평택시경기 화성시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 65,
+    "fields": {
+      "company_name": "주식회사 반석원",
+      "company_addr": "서울 마포구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 66,
+    "fields": {
+      "company_name": "씨제이올리브네트웍스 주식회사",
+      "company_addr": "서울 용산구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 67,
+    "fields": {
+      "company_name": "CJ CGV",
+      "company_addr": "서울"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 68,
+    "fields": {
+      "company_name": "주식회사 홈루덴스",
+      "company_addr": "서울 양천구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 69,
+    "fields": {
+      "company_name": "이케아코리아 유한회사",
+      "company_addr": "경기 용인시 기흥구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 70,
+    "fields": {
+      "company_name": "(주)소노인터내셔널",
+      "company_addr": "경북 경주시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 71,
+    "fields": {
+      "company_name": "경희의료원",
+      "company_addr": ""
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 72,
+    "fields": {
+      "company_name": "(주)안다르",
+      "company_addr": "서울 송파구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 73,
+    "fields": {
+      "company_name": "MBC",
+      "company_addr": "서울 마포구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 74,
+    "fields": {
+      "company_name": "(주)엔씨소프트",
+      "company_addr": "경기 성남시 분당구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 75,
+    "fields": {
+      "company_name": "한국건강관리협회울산광역시지부",
+      "company_addr": "울산 중구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 76,
+    "fields": {
+      "company_name": "라쿠텐심포니코리아 주식회사",
+      "company_addr": "서울 서초구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 77,
+    "fields": {
+      "company_name": "한국항공대학교산학협력단",
+      "company_addr": "경기 고양시 덕양구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 78,
+    "fields": {
+      "company_name": "(주)세형로직스앤스테이지",
+      "company_addr": "서울 영등포구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 79,
+    "fields": {
+      "company_name": "(주) 디자인미다스",
+      "company_addr": "서울 서초구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 80,
+    "fields": {
+      "company_name": "주식회사 부동산중개법인체크",
+      "company_addr": "서울 강남구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 81,
+    "fields": {
+      "company_name": "사단법인 굿피플인터내셔널",
+      "company_addr": "서울 마포구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 82,
+    "fields": {
+      "company_name": "현대엘리베이터(주)",
+      "company_addr": "서울충북 충주시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 83,
+    "fields": {
+      "company_name": "한국골프과학기술대학교",
+      "company_addr": "강원 횡성군"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 84,
+    "fields": {
+      "company_name": "쿠팡로지스틱스서비스(유)",
+      "company_addr": "경기 광주시경기 구리시경기 김포시경기 남양주시경기 동두천시경기 부천시 소사구경기 부천시 오정구경기 부천시 원미구경기 시흥시경기 양주시경기 의왕시경기 의정부시경기 파주시경기 평택시경기 포천시경기 하남시경기 화성시경남 김해시경기 고양시 덕양구경기 고양시 일산동구광주 광산구광주 서구대전 대덕구대전 서구대전 유성구서울 강남구서울 강동구서울 강서구서울 관악구서울 광진구서울 구로구서울 금천구서울 노원구서울 동작구서울 마포구서울 서초구서울 성동구서울 송파구서울 중구서울 중랑구경기 성남시 수정구경기 수원시 권선구경기 수원시 영통구경기 수원시 팔달구경기 안산시 단원구경기 안양시 동안구경기 용인시 기흥구경기 용인시 수지구인천 계양구인천 남동구인천 미추홀구인천 부평구인천 서구전북 완주군전북 장수군전북 전주시 덕진구충남 천안시 서북구충북 청주시 상당구충북 청주시 서원구충북 청주시 흥덕구충남 아산시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 85,
+    "fields": {
+      "company_name": "주식회사 배래",
+      "company_addr": "서울 강남구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 86,
+    "fields": {
+      "company_name": "인앤인주택관리(주)",
+      "company_addr": "경기 광주시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 87,
+    "fields": {
+      "company_name": "(주)워솔케이제이티",
+      "company_addr": "충북 음성군"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 88,
+    "fields": {
+      "company_name": "다함시설관리 주식회사",
+      "company_addr": "경남 통영시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 89,
+    "fields": {
+      "company_name": "(주)예지솔루션",
+      "company_addr": "서울 금천구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 90,
+    "fields": {
+      "company_name": "대전교통공사",
+      "company_addr": "대전 서구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 91,
+    "fields": {
+      "company_name": "(주)이화바이오메딕스",
+      "company_addr": "경기 고양시 덕양구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 92,
+    "fields": {
+      "company_name": "장충중학교",
+      "company_addr": "서울 중구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 93,
+    "fields": {
+      "company_name": "이화여자대학교사범대학부속 이화금란중학교",
+      "company_addr": "서울 서대문구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 94,
+    "fields": {
+      "company_name": "사천시",
+      "company_addr": "경남 사천시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 95,
+    "fields": {
+      "company_name": "인천세무고등학교",
+      "company_addr": "인천 서구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 96,
+    "fields": {
+      "company_name": "청양군",
+      "company_addr": "충남 청양군"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 97,
+    "fields": {
+      "company_name": "재단법인 시흥시인재양성재단",
+      "company_addr": "경기 시흥시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 98,
+    "fields": {
+      "company_name": "(주)강원랜드",
+      "company_addr": "강원 정선군"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 99,
+    "fields": {
+      "company_name": "한국과학기술연구원",
+      "company_addr": "서울 성북구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 100,
+    "fields": {
+      "company_name": "성남산업진흥원",
+      "company_addr": "경기 성남시 수정구경기 성남시 중원구경기 성남시 분당구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 101,
+    "fields": {
+      "company_name": "경북대학교총무과",
+      "company_addr": "대구경북 상주시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 102,
+    "fields": {
+      "company_name": "인천정각중학교",
+      "company_addr": "인천 남동구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 103,
+    "fields": {
+      "company_name": "국무조정실",
+      "company_addr": "세종"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 104,
+    "fields": {
+      "company_name": "아동권리보장원",
+      "company_addr": "서울 중구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 105,
+    "fields": {
+      "company_name": "영등포구청",
+      "company_addr": "서울 영등포구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 106,
+    "fields": {
+      "company_name": "논산시",
+      "company_addr": "충남 논산시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 107,
+    "fields": {
+      "company_name": "인항고등학교",
+      "company_addr": "인천 미추홀구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 108,
+    "fields": {
+      "company_name": "해양수산부",
+      "company_addr": "부산 동구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 109,
+    "fields": {
+      "company_name": "금융위원회",
+      "company_addr": "서울 종로구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 110,
+    "fields": {
+      "company_name": "고령군청",
+      "company_addr": "경북 고령군"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 111,
+    "fields": {
+      "company_name": "강남구중독관리통합지원센터",
+      "company_addr": "서울 강남구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 112,
+    "fields": {
+      "company_name": "티케이",
+      "company_addr": "경기 안성시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 113,
+    "fields": {
+      "company_name": "바이엘코리아(주)",
+      "company_addr": "서울 영등포구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 114,
+    "fields": {
+      "company_name": "특허법인C&S(유)",
+      "company_addr": "서울 강남구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 115,
+    "fields": {
+      "company_name": "국도화인켐(주)",
+      "company_addr": "부산 강서구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 116,
+    "fields": {
+      "company_name": "(주)퍼스트조명",
+      "company_addr": "경기 용인시 처인구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 117,
+    "fields": {
+      "company_name": "광운대학교",
+      "company_addr": "서울 노원구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 118,
+    "fields": {
+      "company_name": "신성통상(주)",
+      "company_addr": "서울 강동구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 119,
+    "fields": {
+      "company_name": "서울강서우체국",
+      "company_addr": "서울 강서구서울 양천구서울 영등포구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 120,
+    "fields": {
+      "company_name": "(주)아이디어키",
+      "company_addr": "서울 송파구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 121,
+    "fields": {
+      "company_name": "(주)중앙엔지니어링",
+      "company_addr": "경기 수원시 영통구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 122,
+    "fields": {
+      "company_name": "데상트코리아(주)",
+      "company_addr": "서울 송파구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 123,
+    "fields": {
+      "company_name": "한화시스템(주)",
+      "company_addr": "서울 중구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 124,
+    "fields": {
+      "company_name": "지티에스 GTS",
+      "company_addr": "경기 이천시경기 여주시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 125,
+    "fields": {
+      "company_name": "주식회사 대한재해예방",
+      "company_addr": "경남 김해시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 126,
+    "fields": {
+      "company_name": "주식회사 이오모",
+      "company_addr": "경기 수원시 장안구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 127,
+    "fields": {
+      "company_name": "다감컴퍼니",
+      "company_addr": "경기 의정부시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 128,
+    "fields": {
+      "company_name": "(주)엘에스씨푸드",
+      "company_addr": "서울 동작구서울서울 관악구서울 용산구서울 종로구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 129,
+    "fields": {
+      "company_name": "(주)이도",
+      "company_addr": "경기경기 안양시 동안구경기 안양시 만안구경기 군포시경기 광명시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 130,
+    "fields": {
+      "company_name": "(주)인사이트모션",
+      "company_addr": "서울 종로구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 131,
+    "fields": {
+      "company_name": "(주)테크윙",
+      "company_addr": "경기 화성시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 132,
+    "fields": {
+      "company_name": "(주)오픈갤러리",
+      "company_addr": "서울 성동구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 133,
+    "fields": {
+      "company_name": "영어도서관그레이트학원",
+      "company_addr": "경기 오산시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 134,
+    "fields": {
+      "company_name": "(주)에이비티아시아",
+      "company_addr": "서울 강남구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 135,
+    "fields": {
+      "company_name": "(주)솔루엠",
+      "company_addr": "경기 용인시 기흥구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 136,
+    "fields": {
+      "company_name": "(주)서초택시",
+      "company_addr": "서울 서초구서울 강남구서울 동작구서울 관악구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 137,
+    "fields": {
+      "company_name": "담아",
+      "company_addr": "경기 용인시 처인구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 138,
+    "fields": {
+      "company_name": "(주)제이엠산업구항지점",
+      "company_addr": "충남 홍성군충남 예산군충남 연기군충남 천안시 동남구충남 청양군충남 서천군충남 논산시충남 금산군충남 서산시충남 천안시 서북구충남 부여군충남 공주시충남 계룡시충남 보령시충남 아산시충남 태안군충남 당진시충남"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 139,
+    "fields": {
+      "company_name": "인카금융서비스(주)",
+      "company_addr": "서울 송파구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 140,
+    "fields": {
+      "company_name": "(주)중앙일보",
+      "company_addr": "서울 마포구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 141,
+    "fields": {
+      "company_name": "주식회사 제광서울지사",
+      "company_addr": "경기 하남시경기 광주시경기 구리시경기 양평군경기 가평군"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 142,
+    "fields": {
+      "company_name": "(주)오뷔엘알",
+      "company_addr": "서울 강남구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 143,
+    "fields": {
+      "company_name": "한화손해보험(주)",
+      "company_addr": "대구 수성구경기 남양주시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 144,
+    "fields": {
+      "company_name": "(주)오우아스",
+      "company_addr": "경기 남양주시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 145,
+    "fields": {
+      "company_name": "서울아산병원",
+      "company_addr": "서울 송파구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 146,
+    "fields": {
+      "company_name": "택스플래닛 세무회계",
+      "company_addr": "서울 강남구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 147,
+    "fields": {
+      "company_name": "(주)제이앤비주식사관학교",
+      "company_addr": "경기 수원시 팔달구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 148,
+    "fields": {
+      "company_name": "세일신용정보",
+      "company_addr": "부산 해운대구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 149,
+    "fields": {
+      "company_name": "유한회사 서수산",
+      "company_addr": "광주 광산구전남"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 150,
+    "fields": {
+      "company_name": "(사)한국골프캐디협회",
+      "company_addr": "광주대전경기전북경남대구경북인천충남울산충북대전 동구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 151,
+    "fields": {
+      "company_name": "티큐텍 (TQ TECH)",
+      "company_addr": "경기 화성시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 152,
+    "fields": {
+      "company_name": "제주농산물수급관리센터",
+      "company_addr": "제주 제주시제주 서귀포시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 153,
+    "fields": {
+      "company_name": "(주)신건",
+      "company_addr": "서울 강남구서울 관악구서울 송파구서울 은평구서울 광진구서울 노원구서울 양천구서울 동대문구서울 도봉구서울 강북구서울 마포구서울 금천구서울 종로구서울 강서구서울 서대문구서울 영등포구서울 용산구서울 동작구서울 강동구서울 구로구서울 서초구서울 성동구서울 성북구서울 중구서울 중랑구경기 동두천시경기 광명시경기 수원시 영통구경기 안성시경기 연천군경기 의정부시경기 이천시경기 화성시경기 오산시경기 안양시 동안구경기 수원시 장안구경기 광주시경기 가평군경기 부천시 소사구경기 고양시 덕양구경기 성남시 분당구경기 수원시 팔달구경기 구리시경기 안양시 만안구경기 용인시 기흥구경기 파주시경기 평택시경기 용인시 처인구경기 양주시경기 시흥시경기 성남시 수정구경기 군포시경기 고양시 일산동구경기 김포시경기 성남시 중원구경기 고양시 일산서구경기 안산시 단원구경기 양평군경기 포천시경기 용인시 수지구경기 하남시경기 의왕시경기 여주시경기 안산시 상록구경기 남양주시경기 수원시 권선구경기 과천시인천 서구인천 부평구인천 계양구인천 연수구인천 미추홀구인천 남동구인천 동구인천 중구경남 함안군전남 무안군전북 완주군충북 진천군충남 계룡시전북 진안군전북 남원시경남 고성군"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 154,
+    "fields": {
+      "company_name": "목포대학교",
+      "company_addr": "전남 무안군"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 155,
+    "fields": {
+      "company_name": "외교부",
+      "company_addr": ""
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 156,
+    "fields": {
+      "company_name": "내장산생태탐방원",
+      "company_addr": "전북 정읍시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 157,
+    "fields": {
+      "company_name": "우신고등학교",
+      "company_addr": "서울 구로구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 158,
+    "fields": {
+      "company_name": "이니셔티브 컴퍼니",
+      "company_addr": "서울 서초구"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 159,
+    "fields": {
+      "company_name": "주식회사 대한오토텍",
+      "company_addr": "경남 양산시"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 160,
+    "fields": {
+      "company_name": "미성엠프로(주)",
+      "company_addr": "강원 평창군"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 161,
+    "fields": {
+      "company_name": "청림목공",
+      "company_addr": "경남 밀양시경북 청도군경남"
+    }
+  },
+  {
+    "model": "companies.company",
+    "pk": 162,
+    "fields": {
+      "company_name": "(주) 에이테크경주",
+      "company_addr": "경북 경주시"
+    }
+  }
+]
